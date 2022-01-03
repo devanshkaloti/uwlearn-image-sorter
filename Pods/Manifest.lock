@@ -1,0 +1,32 @@
+PODS:
+  - Material (3.1.8):
+    - Material/Core (= 3.1.8)
+  - Material/Core (3.1.8):
+    - Motion (~> 3.1.1)
+  - Motion (3.1.3):
+    - Motion/Core (= 3.1.3)
+  - Motion/Core (3.1.3)
+  - SSSwiftUIGIFView (1.0.0)
+  - StepperView (1.6.7)
+
+DEPENDENCIES:
+  - Material (~> 3.1.0)
+  - SSSwiftUIGIFView
+  - StepperView (~> 1.6.7)
+
+SPEC REPOS:
+  trunk:
+    - Material
+    - Motion
+    - SSSwiftUIGIFView
+    - StepperView
+
+SPEC CHECKSUMS:
+  Material: a2a3f400a3b549d53ef89e56c58c4535b29db387
+  Motion: cf1e060e489f6661126374d5c60dbd2ed991605c
+  SSSwiftUIGIFView: f109262cd0baff190b58b519c0e94f7622c428d4
+  StepperView: 9b88922ef65712410c0e95c460cd115d33cfd933
+
+PODFILE CHECKSUM: 33c8e6e9f5cd508dc572a2311c4c8cddb65a04f5
+
+COCOAPODS: 1.11.2
